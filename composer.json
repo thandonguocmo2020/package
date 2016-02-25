@@ -1,0 +1,14 @@
+{
+    "name": "mr/hoang",
+    "description": "toi la hoang hiep",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mr hoang",
+            "email": "hoanghiep1x0@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
